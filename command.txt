@@ -1,1 +1,2 @@
 Measure-Command {mbed compile}
+{ time mbed compile ; } 2> name.txt
